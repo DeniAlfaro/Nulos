@@ -13,7 +13,7 @@ namespace Nulos
         public string Kilometraje { get; set; }
         public Dueño DueñoCarro { get; set; }
 
-        public void encender()
+        public void Encender()
         {
 
         }
